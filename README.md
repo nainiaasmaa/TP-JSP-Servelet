@@ -11,8 +11,11 @@ Ce projet se présente sous la forme d'une application web développée en utili
 # les prérequis 
 
 Java SE Development Kit (JDK)
+
 Un serveur compatible avec Java Servlet (par exemple, GlassFish, Tomcat)
+
 Base de données MySQL
+
 MySQL Connector/J (JDBC Driver) pour la connectivité à la base de données
 
 # Cptures d'ecran 
