@@ -4,8 +4,8 @@
 Ce projet se présente sous la forme d'une application web développée en utilisant JavaServer Pages (JSP) et fonctionnant sur le serveur GlassFish. Son but principal est d'optimiser la gestion des machines. Cette application offre aux utilisateurs la capacité d'effectuer diverses opérations, telles que la création de nouvelles machines, la consultation de la liste des machines en service, la mise à jour des informations liées à ces machines, et enfin, leur suppression.
 
 # Les fonctionnalités
-->**Ajout d'une machine**
-->**La suppression d'une machine**
+**Ajout d'une machine**
+**La suppression d'une machine**
 
 # les prérequis 
 
