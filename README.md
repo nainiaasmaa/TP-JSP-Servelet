@@ -5,6 +5,7 @@ Ce projet se présente sous la forme d'une application web développée en utili
 
 # Les fonctionnalités
 1-Ajout d'une machine
+
 2-La suppression d'une machine
 
 # les prérequis 
